@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デュレエ",
+  "base_artist": "椎乃味醂",
+  "createdAt": "2026-01-11T08:11:11.249303Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デュレエ (feat. 初音ミク)",
+      "artist": "椎乃味醂",
+      "has_synced": false,
+      "path": "select/pl_01_デュレエ_(feat._初音ミク)_椎乃味醂.txt"
+    }
+  ]
+}
